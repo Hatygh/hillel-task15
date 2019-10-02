@@ -1,4 +1,4 @@
-@section('instagram')
+
     <!-- ##### Instagram Area Start ##### -->
     <div class="follow-us-instagram">
         <div class="container">
@@ -55,4 +55,3 @@
         </div>
     </div>
     <!-- ##### Instagram Area End ##### -->
-@endsection

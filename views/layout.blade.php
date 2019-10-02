@@ -186,7 +186,7 @@ require_once 'blade.config.php';
 
 @yield('content')
 
-
+@include('instagram')
 
 <!-- ##### Footer Area Start ##### -->
 <footer class="footer-area">
